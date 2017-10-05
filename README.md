@@ -25,10 +25,5 @@ heatmap of the correlation matrix.
 
 argment3 undetected mark; 0:only - (default). 1:- and ? . 2:- , ? and * 
 
-<<<<<<< HEAD
 -, ?, and * indicate the status of the best scoring allele. Refer to SRST2(https://github.com/katholt/srst2) output.
-=======
-In -, ?, and *, refer to SRST2(https://github.com/katholt/srst2) output.
->>>>>>> 88677b53f211850f4d91a2b87e45690592a70933
-
 
